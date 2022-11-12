@@ -1,3 +1,5 @@
 xyz
-
+<<<<<<< HEAD
 ERRO SOLVED
+=======
+>>>>>>> master
