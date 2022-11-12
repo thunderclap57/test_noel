@@ -1,5 +1,2 @@
 xyz
-<<<<<<< HEAD
-ERRO SOLVED
-=======
->>>>>>> master
+ERROR SOLVED
