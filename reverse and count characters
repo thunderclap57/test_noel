@@ -1,0 +1,21 @@
+void rev(char *s){
+    if(*s != '\0'){
+        rev(s+1);
+        cout<<*s;
+        
+    }
+ 
+}
+int count(char *s){
+  
+    if(*s != '\0'){
+        cnt++;
+        count(s+1);
+    }
+    else{
+    
+        return cnt;
+        
+    }
+    
+}
